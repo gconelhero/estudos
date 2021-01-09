@@ -1,8 +1,7 @@
-def funcao(i):
-	print("executando")
-	if i < 5:
-		i += 1
-		funcao(i)
+def funcao():
+	
+    print("executando")
 
-i = 1
-funcao(i)
+    funcao()
+
+funcao()
