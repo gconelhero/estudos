@@ -26,15 +26,11 @@ Após executar o comando acima, basta apenas abrir o seguinte endereço e visual
 http://localhost:8080/api/v1/beers
 ```
 
-São necessários os seguintes pré-requisitos para a execução do projeto desenvolvido durante a aula:
+São necessários os seguintes pré-requisitos para a execução do projeto:
 
 * Java 11 ou versões superiores.
 * Maven 3.6.3 ou versões superiores.
 * Visual Studio Code ou sua IDE favorita.
-* Controle de versão GIT instalado na sua máquina.
-* Muita vontade de aprender e compartilhar conhecimento :)
-
-Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 
 * [SDKMan! para gerenciamento e instalação do Java e Maven](https://sdkman.io/)
 * [Referência do Intellij IDEA Community, para download](https://www.jetbrains.com/idea/download)
