@@ -38,3 +38,7 @@ Para rodar o front-end(localhost:4200):
 npm install --save @angular-devkit/build-angular bootstrap jquery
 
 ng serve
+
+
+
+ 
